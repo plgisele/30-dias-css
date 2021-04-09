@@ -1,0 +1,18 @@
+# Desafio 30 dias de CSS
+
+## Objetivo
+Melhorar minhas habilidades em HTML e CSS fazendo mini projetos diários.
+
+A inspiração para fazer esse desafio veio da minha amiga [Liz Vidotti](https://github.com/lizvidotti91) e da criadora do desafio, [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCSS).
+
+## Regras gerais
+- Realizar um projeto por dia
+- Compartilhe seu progresso nas mídias sociais (Twitter, Linkedin etc.) usando a hashtag #30diasDeCSS
+- O projeto deve ser concluído até 23:59
+
+## Tecnologias usadas
+- HTML
+- CSS
+
+## Desafios
+- [Dia 01 - Ícones de mídias sociais em camadas]()
