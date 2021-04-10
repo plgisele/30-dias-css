@@ -15,4 +15,4 @@ A inspiração para fazer esse desafio veio da minha amiga [Liz Vidotti](https:/
 - CSS
 
 ## Desafios
-- [Dia 01 - Ícones de mídias sociais em camadas]()
+- [Dia 01 - Ícones de mídias sociais em camadas](https://github.com/plgisele/30-dias-css/tree/main/desafios/dia%2001)
