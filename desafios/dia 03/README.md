@@ -2,7 +2,7 @@
 
 ![Imagem](img/dia03.gif)
 
-- [Projeto no CodePen]()
+- [Projeto no CodePen](https://codepen.io/plgisele/pen/KKaoMQM)
 
 ## Tecnologias usadas
 
