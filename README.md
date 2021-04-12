@@ -17,3 +17,4 @@ A inspiração para fazer esse desafio veio da minha amiga [Liz Vidotti](https:/
 ## Desafios
 - [Dia 01 - Ícones de mídias sociais em camadas](https://github.com/plgisele/30-dias-css/tree/main/desafios/dia%2001)
 - [Dia 02 - Loader animado](https://github.com/plgisele/30-dias-css/tree/main/desafios/dia%2002)
+- [Dia 03 - Mudança de cor de texto quando entra em outra div](https://github.com/plgisele/30-dias-css/tree/main/desafios/dia%2003)
