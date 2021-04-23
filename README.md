@@ -20,3 +20,4 @@ A inspiração para fazer esse desafio veio da minha amiga [Liz Vidotti](https:/
 - [Dia 03 - Mudança de cor de texto quando entra em outra div](https://github.com/plgisele/30-dias-css/tree/main/desafios/dia%2003)
 - [Dia 04 - Botão com efeito](https://github.com/plgisele/30-dias-css/tree/main/desafios/dia%2004)
 - [Dia 05 - Efeito pulsar](https://github.com/plgisele/30-dias-css/tree/main/desafios/dia%2005)
+- [Dia 06 - Efeito lightning text](https://github.com/plgisele/30-dias-css/tree/main/desafios/dia%2006)
